@@ -1,4 +1,4 @@
-#Bank Loan Analysis Dashboard
+## Bank Loan Analysis Dashboard
 
 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: To analyze bank loan data and evaluate lending performance by tracking key metrics such as loan applications, funded amount, repayments, interest rates, and borrower risk using 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, 𝗦𝗤𝗟, and 𝗗𝗔𝗫, and to generate actionable insights that support financial decision-making and portfolio risk assessment.
 
